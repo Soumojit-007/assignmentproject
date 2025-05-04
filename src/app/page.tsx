@@ -4,7 +4,7 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Send, Smile, User, Mail, MessageSquare, ChevronRight, Users, Clock, Star, Bell, Home, ArrowLeft } from 'lucide-react';
+import { Send, Smile, User, Mail, Users, Clock, Bell, Home, ArrowLeft } from 'lucide-react';
 
 // User type definition for the users list
 type UserType = {
